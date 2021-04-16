@@ -1,0 +1,15 @@
+[{
+        "name": "Siren head maker",
+        "descripstion": "Siren head map for minecraft One of the most used maps.",
+        "fileNameInAsset": "Bonus_Mario_maker.mcworld",
+        "fileExtendtion": "mcworld",
+        "img": "ic_sc1.png"
+    }, {
+        "name": "Bonus Siren head",
+        "descripstion": "This map is inspired by the character made by an artist named Trevor Henderson.In this horror adventure you spawn in a forest and ",
+        "fileNameInAsset": "Bonus_Mario_mod.mcaddon",
+        "fileExtendtion": "mcaddon",
+        "img": "ic_sc2.png"
+    }
+
+]
