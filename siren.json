@@ -10,6 +10,42 @@
         "fileNameInAsset": "Bonus_Mario_mod.mcaddon",
         "fileExtendtion": "mcaddon",
         "img": "ic_sc2.png"
+    }, {
+        "name": "Siren head horror",
+        "descripstion": "Siren Head is watching you and can approach very quickly if you don't move! Your goal is to explore it and find 6 codes to win.",
+        "fileNameInAsset": "mmod2_.mcpack",
+        "fileExtendtion": "mcpack",
+        "img": "ic_sc3.png"
+    }, {
+        "name": "Siren head horror 2",
+        "descripstion": "If you are an adventurous person. This map gives you a horror experience. Download and experience it.",
+        "fileNameInAsset": "mmod_.mcpack",
+        "fileExtendtion": "mcpack",
+        "img": "ic_sc2.png"
+    }, {
+        "name": "Siren head Survival",
+        "descripstion": "This map is a survival map. You need to find and destroy your target to win",
+        "fileNameInAsset": "mmod_old.mcaddon",
+        "fileExtendtion": "mcaddon",
+        "img": "ic_sc3.png"
+    }, {
+        "name": "construction siren head",
+        "descripstion": "This map is a construction map. You can build works as you like.",
+        "fileNameInAsset": "Siren_Head.mcworld",
+        "fileExtendtion": "mcworld",
+        "img": "ic_sc1.png"
+    }, {
+        "name": "Siren head pvp",
+        "descripstion": "This map is a pvp map. Download and play with other players",
+        "fileNameInAsset": "Siren_Head_addon.mcaddon",
+        "fileExtendtion": "mcaddon",
+        "img": "ic_sc2.png"
+    }, {
+        "name": "Siren head bonus",
+        "descripstion": "This map is added to the application as a gift to the user",
+        "fileNameInAsset": "Siren_Head_addon_v2.mcworld",
+        "fileExtendtion": "mcaddon",
+        "img": "ic_sc4.png"
     }
 
 ]
