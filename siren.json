@@ -43,7 +43,7 @@
     }, {
         "name": "Siren head bonus",
         "descripstion": "This map is added to the application as a gift to the user",
-        "fileNameInAsset": "Siren_Head_addon_v2.mcworld",
+        "fileNameInAsset": "Siren_Head_addon_v2.mcaddon",
         "fileExtendtion": "mcaddon",
         "img": "ic_sc4.jpg"
     }
